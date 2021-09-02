@@ -1,0 +1,5 @@
+# Excluding Doc Folder from Repo's Language Statistics
+
+*.js linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
